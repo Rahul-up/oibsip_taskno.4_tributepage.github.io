@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+.steve{
+    background-color: black;
+    color: white;
+    height: 425px;
+    text-align: center;
+    margin-top: 6rem;
+    font-size: 25px;
+}
+.num{
+    margin-top: 0rem;
+    font-size: 40px;
+}
+#img2{
+    background-color:black;
+    color: white;
+    width: 5%;
+    margin-top: 3%;
+
+}
+.img{
+    background-color: black;
+    color: white;
+    height: 450px;
+    text-align: center;
+}
+#img1{
+    width: 90%;
+}
+.bio{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 25px;
+}
+.foot{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -4rem;
+    font-size: 20px;
+}
+hr{
+    width: 50%;
+    margin-top: -5rem;
+    margin-bottom: 5rem;
+}
+i{
+    color: white;
+}
